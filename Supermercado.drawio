@@ -157,7 +157,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cHepiJz0xpvLa0jhPuyw-11" value="Produto" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="380" width="250" height="150" as="geometry" />
+          <mxGeometry x="40" y="240" width="250" height="150" as="geometry" />
         </mxCell>
         <mxCell id="cHepiJz0xpvLa0jhPuyw-12" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="cHepiJz0xpvLa0jhPuyw-11">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -287,7 +287,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cHepiJz0xpvLa0jhPuyw-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="cHepiJz0xpvLa0jhPuyw-12" target="cHepiJz0xpvLa0jhPuyw-38">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="285" />
+              <mxPoint x="350" y="675" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

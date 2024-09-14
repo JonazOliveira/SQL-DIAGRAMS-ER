@@ -87,7 +87,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-23" value="Cartao" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="140" width="250" height="210" as="geometry">
+          <mxGeometry x="160" width="250" height="210" as="geometry">
             <mxRectangle x="220" y="60" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>

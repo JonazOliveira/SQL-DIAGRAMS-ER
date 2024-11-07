@@ -1,3 +1,3 @@
 # SQL-DIAGRAMS-ER
 
-Data Base diagrams
+DataBase diagrams
